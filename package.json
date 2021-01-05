@@ -15,7 +15,7 @@
     "@antv/g2": "^3.5.9",
     "@jiaminghi/data-view": "^2.4.7",
     "ant-design-vue": "^1.4.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "echarts": "^4.4.0",
     "element-ui": "^2.12.0",
     "font-awesome": "^4.7.0",
